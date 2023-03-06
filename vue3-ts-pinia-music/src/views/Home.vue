@@ -11,7 +11,7 @@
                 <router-view />
             </div>
         </main>
-        <Index />
+      
     </div>
 </template>
 
